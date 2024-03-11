@@ -39,6 +39,7 @@ body{
     width: 250px;
     margin-left: 20px;
     border-radius: 10px;
+    box-shadow: 3px 3px 12px 4px;
     background-color: rgb(209,220,186);
 }
 
@@ -253,6 +254,7 @@ body{
     height: 40px;
     line-height: 37px;
      border-radius: 20px;
+     color: white;
     background-color:rgb(253,129,3) 
   }
   #numbers16{
